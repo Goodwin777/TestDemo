@@ -10,5 +10,7 @@ public class NumbersTest {
         int actual = numbers.sum(5);
         int expected = 15;
         assertEquals(expected,actual);
+
+
     }
 }
